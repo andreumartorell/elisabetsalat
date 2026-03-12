@@ -22,7 +22,7 @@
   padding-left: 26px;
 }
 
-.cur-data:nth-child(1), .cur-data:nth-child(11),.cur-data:nth-child(24),.cur-data:nth-child(33) {
+.cur-data:nth-child(1), .cur-data:nth-child(13),.cur-data:nth-child(26),.cur-data:nth-child(35) {
   font-weight: bold;
   padding-left: 0;
 }
